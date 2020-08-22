@@ -1,2 +1,2 @@
 # Demo
-text classification to be updated.
+Spam detection text classification to be updated project
